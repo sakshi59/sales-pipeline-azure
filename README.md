@@ -31,24 +31,19 @@ from a retail point-of-sale system.
 ## Project Screenshots
 
 ### Azure Data Lake — Storage Containers
-![Storage](<img width="1172" height="667" alt="storage-container" src="https://github.com/user-attachments/assets/357e5b99-1f76-4b8f-ba2a-9bcec4dc5f06" />
-)
+<img width="1172" alt="Storage Containers" src="https://github.com/user-attachments/assets/357e5b99-1f76-4b8f-ba2a-9bcec4dc5f06" />
 
 ### ADF Pipeline Run — Succeeded
-![ADF Pipeline](<img width="1469" height="414" alt="adf_pipeline_success" src="https://github.com/user-attachments/assets/1c55b3bf-b3d3-4c1d-811e-790722fd64a6" />
-)
+<img width="1469" alt="ADF Pipeline" src="https://github.com/user-attachments/assets/1c55b3bf-b3d3-4c1d-811e-790722fd64a6" />
 
 ### Databricks — Curated Layer Write Verification
-![Databricks](<img width="1470" height="831" alt="databricks-output" src="https://github.com/user-attachments/assets/1cce2c08-d41e-4918-9b18-5b37a4bdb76c" />
-)
+<img width="1470" alt="Databricks Output" src="https://github.com/user-attachments/assets/1cce2c08-d41e-4918-9b18-5b37a4bdb76c" />
 
 ### Synapse Analytics — Live Query Result
-![Synapse](<img width="1470" height="833" alt="synapse_query_result" src="https://github.com/user-attachments/assets/07657730-c615-470b-95ca-b995fe477a25" />
-)
+<img width="1470" alt="Synapse Query" src="https://github.com/user-attachments/assets/07657730-c615-470b-95ca-b995fe477a25" />
 
 ### Tableau Dashboard
-![Dashboard](<img width="1062" height="836" alt="Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/ac9b5e80-44bb-47f1-84d7-1bdfcbceb83d" />
-)
+<img width="1062" alt="Dashboard" src="https://github.com/user-attachments/assets/ac9b5e80-44bb-47f1-84d7-1bdfcbceb83d" />
 
 ## Author
 
